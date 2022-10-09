@@ -32,6 +32,7 @@ This loader is intended to be compiled as a **32-bit** binary, so make sure you 
 
 1. Windows 10 Pro (32-bit) 20H2
 2. Windows 10 Pro (32-bit) 21H1
+3. Windows 10 Pro (32-bit) 21H2
 
 
 ### Note on antivirus
